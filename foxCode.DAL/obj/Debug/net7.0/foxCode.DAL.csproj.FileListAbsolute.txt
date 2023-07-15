@@ -1,0 +1,14 @@
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\bin\Debug\net7.0\foxCode.DAL.deps.json
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\bin\Debug\net7.0\foxCode.DAL.runtimeconfig.json
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\bin\Debug\net7.0\foxCode.DAL.dll
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\bin\Debug\net7.0\foxCode.DAL.pdb
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.csproj.AssemblyReference.cache
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.AssemblyInfoInputs.cache
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.AssemblyInfo.cs
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.dll
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\refint\foxCode.DAL.dll
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.pdb
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\foxCode.DAL.genruntimeconfig.cache
+C:\Users\elish\Desktop\foxCodeTask\Backend\bkFoxCode\foxCode.DAL\obj\Debug\net7.0\ref\foxCode.DAL.dll
